@@ -11,7 +11,8 @@ describe('api assignment', ()=>{
 
 })
 
-    it('Task 1',()=>{
+   
+	 it('Task 1',()=>{
 
         let responseFirstName , responseLastName , responseEmail
         
@@ -45,7 +46,8 @@ describe('api assignment', ()=>{
      })
 
 
-    it('Task 2',()=>{
+   
+ 	it('Task 2',()=>{
         
      cy.request({
             method : 'GET',
