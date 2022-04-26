@@ -5,6 +5,7 @@ describe('RohithAssignment',()=>{
        })
    
    
+
        it('CASE 1.1 , Element not found assesetion',()=>{
           
          let searchInput = ['p','pr']
@@ -20,6 +21,7 @@ describe('RohithAssignment',()=>{
        })
    
    
+
        it('CASE 1.2, Element  found assesetion',()=>{
           
             const searchInput = ['pri','pri']
@@ -35,6 +37,7 @@ describe('RohithAssignment',()=>{
         })
    
    
+
        it('Case 2, Validate results are displayed according to the search made by the user',()=>{
            const userInput = 'Blouse'
          
@@ -51,6 +54,7 @@ describe('RohithAssignment',()=>{
        })
    
    
+
    
        it('Case 3 , Validate whether the user is able to apply the large size catalog filter for the T-shirt section',()=>{
    
@@ -71,6 +75,7 @@ describe('RohithAssignment',()=>{
        })
    
    
+
        it.only('Add 5 products in the cart, validate total cart amount and individual product price both with and without discount.',()=>{
    
             for(let i=0 ; i<=4;i++){
