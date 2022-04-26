@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://thinking-tester-contact-list.herokuapp.com",
+    "env": {
+        "api": {
+            "users": "/users/me",
+            "contact": "/contacts"
+            
+        }
+
+ 
+
+    }
+}

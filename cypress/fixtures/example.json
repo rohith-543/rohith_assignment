@@ -1,0 +1,28 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "contactID": "/62578a41abd04900153dcd94",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjU2NTU5NmZiM2Y1NjAwMTUyZDlmZGQiLCJpYXQiOjE2NDk4MjUxNzR9.wOgUXbI9X_m_fIu-Kz-hMP7j76Z7hgTfmsqJKtDFVe4",
+
+
+  "addContactBody" : {
+
+        
+    "firstName": "EEE",
+    "lastName": "Dornala",
+    "birthdate": "1997-04-03",
+    "email": "jdoe@fake2.com",
+    "phone": "8005554555",
+    "street1": "1 Main St.",
+    "street2": "Apartment f",
+    "city": "Anytown",
+    "stateProvince": "KS",
+    "postalCode": "12345",
+    "country": "USA"
+
+}
+}
+
+
+
